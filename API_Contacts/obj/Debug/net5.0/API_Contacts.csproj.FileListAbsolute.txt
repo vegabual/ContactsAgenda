@@ -1,0 +1,7 @@
+C:\repos\API_Contacts\API_Contacts\API_Contacts\obj\Debug\net5.0\API_Contacts.csproj.AssemblyReference.cache
+C:\repos\API_Contacts\API_Contacts\API_Contacts\obj\Debug\net5.0\API_Contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\API_Contacts\API_Contacts\API_Contacts\obj\Debug\net5.0\API_Contacts.AssemblyInfoInputs.cache
+C:\repos\API_Contacts\API_Contacts\API_Contacts\obj\Debug\net5.0\API_Contacts.AssemblyInfo.cs
+C:\repos\API_Contacts\API_Contacts\API_Contacts\obj\Debug\net5.0\API_Contacts.csproj.CoreCompileInputs.cache
+C:\repos\API_Contacts\API_Contacts\API_Contacts\obj\Debug\net5.0\API_Contacts.MvcApplicationPartsAssemblyInfo.cs
+C:\repos\API_Contacts\API_Contacts\API_Contacts\obj\Debug\net5.0\API_Contacts.MvcApplicationPartsAssemblyInfo.cache
