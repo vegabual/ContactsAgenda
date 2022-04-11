@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\API_Contacts\\API_Contacts\\API_Contacts\\API_Contacts.csproj": {}
+    "C:\\repos\\API_Contacts\\API_Contacts\\API_Contacts.csproj": {}
   },
   "projects": {
-    "C:\\repos\\API_Contacts\\API_Contacts\\API_Contacts\\API_Contacts.csproj": {
+    "C:\\repos\\API_Contacts\\API_Contacts\\API_Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\API_Contacts\\API_Contacts\\API_Contacts\\API_Contacts.csproj",
+        "projectUniqueName": "C:\\repos\\API_Contacts\\API_Contacts\\API_Contacts.csproj",
         "projectName": "API_Contacts",
-        "projectPath": "C:\\repos\\API_Contacts\\API_Contacts\\API_Contacts\\API_Contacts.csproj",
+        "projectPath": "C:\\repos\\API_Contacts\\API_Contacts\\API_Contacts.csproj",
         "packagesPath": "C:\\Users\\veronica.busiello\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\API_Contacts\\API_Contacts\\API_Contacts\\obj\\",
+        "outputPath": "C:\\repos\\API_Contacts\\API_Contacts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veronica.busiello\\AppData\\Roaming\\NuGet\\NuGet.Config",

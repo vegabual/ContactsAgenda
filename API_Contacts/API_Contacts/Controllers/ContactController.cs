@@ -1,4 +1,5 @@
-﻿using API_Contacts.Services;
+﻿using API_Contacts.DTO;
+using API_Contacts.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -14,26 +15,26 @@ namespace API_Contacts.Controllers
     {
         private ContactService contactService = new ContactService();
 
-        [HttpGet]
-        public Contact Get(int id)
+        [HttpGet("{id}")]
+        public ContactDTO Get(int id)
         {
-            return contactService.Get(id);
+            return contactService.GetDTO(id);
         }
 
         [HttpGet]
-        public IEnumerable<Contact> Get()
+        public IEnumerable<ContactDTO> Get()
         {
-            return contactService.Get();
+            return contactService.GetDTO();
         }
 
         [HttpPost]
-        public ActionResult Save(Contact contact)
+        public ActionResult Save(ContactDTO contact)
         {
             return CreatedAtAction(nameof(Save), contactService.Save(contact));
         }
 
         [HttpPut]
-        public IActionResult Edit(int id, Contact contact)
+        public IActionResult Edit(int id, ContactDTO contact)
         {
             contactService.Edit(id, contact);
             return NoContent();
